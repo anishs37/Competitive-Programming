@@ -1,3 +1,6 @@
+//Link to Problem: https://codeforces.com/problemset/problem/50/A
+//Date: 11/24/2020
+
 import java.io.*;
 import java.util.*;
  
