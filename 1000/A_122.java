@@ -14,7 +14,7 @@ public class A_122
       String num = st_1.nextToken();
       long num_int = Long.parseLong(num);
       
-      if((num_int % 4 == 0) || (num_int % 7 == 0) || (num_int % 47 == 0) || (num_int % 744 == 0))
+      if((num_int % 4 == 0) || (num_int % 7 == 0) || (num_int % 47 == 0) || (num_int % 744 == 0) || (num_int % 477 == 0))
          System.out.println("YES");
       
       else
