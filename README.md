@@ -1,4 +1,4 @@
-#CP
+**CP**
 
 Some CP problems I attempt (mainly in Java).
 
